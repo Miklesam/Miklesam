@@ -17,7 +17,7 @@
 
 [googleplay]: https://play.google.com/store/apps/developer?id=Miklesam
 [twitter]: https://twitter.com/Miklesami
-[gmail]: mikle.samarkin@gmail.com
+[gmail]: https://mikle.samarkin@gmail.com
 <!--
 **Miklesam/Miklesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
