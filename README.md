@@ -13,7 +13,7 @@
 
 <img align="left" alt="Miklesam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miklesam&show_icons=true&hide_border=true" />
 
-[website]: https://https://play.google.com/store/apps/developer?id=Miklesam
+[website]: https://play.google.com/store/apps/developer?id=Miklesam
 [twitter]: https://twitter.com/Miklesami
 <!--
 **Miklesam/Miklesam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
