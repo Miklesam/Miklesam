@@ -1,7 +1,7 @@
 ### Hi there, I'm Misha - aka [Miklesam][googleplay] 👋
 
 ## I'm a Android Developer
-- 🔭 I’m currently working on esports games for android
+- 🔭 I’m currently working on esports applications for android
 - 🌱 I’m currently learning how to do it better
 - 👯 I’m looking to collaborate with other esports content creators
 
